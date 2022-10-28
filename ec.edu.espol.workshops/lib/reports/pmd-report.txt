@@ -1,0 +1,206 @@
+src/main/java/lib/CarInsurance.java:9:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Carlnsurance' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/lib/CarInsurance.java:9:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The class 'Carlnsurance' has a Modified Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/lib/CarInsurance.java:9:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'Carlnsurance' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/lib/CarInsurance.java:9:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The class 'Carlnsurance' has a Standard Cyclomatic Complexity of 3 (Highest = 11).
+src/main/java/lib/CarInsurance.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the edad field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:10:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the edad field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:10:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:10:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:10:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:10:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/main/java/lib/CarInsurance.java:10:	MutableStaticState:	MutableStaticState: Do not use non-final non-private static fields
+src/main/java/lib/CarInsurance.java:11:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the sexo field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:11:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the sexo field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:11:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:11:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:11:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/lib/CarInsurance.java:12:	BeanMembersShouldSerialize:	BeanMembersShouldSerialize: Found non-transient, non-static member. Please mark as transient or provide accessors.
+src/main/java/lib/CarInsurance.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the eCivil field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:12:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the eCivil field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:12:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:12:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:12:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the PRIMA_BASE field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:13:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the PRIMA_BASE field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:13:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:13:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CASADO_OMUJER field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:14:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the CASADO_OMUJER field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:14:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:14:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the DESCUENTO_EDAD field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:15:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the DESCUENTO_EDAD field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:15:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:15:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the RECARGO_HOMBRE_JOVENSOLTERO field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:16:	CommentDefaultAccessModifier:	CommentDefaultAccessModifier: To avoid mistakes add a comment at the beginning of the RECARGO_HOMBRE_JOVENSOLTERO field if you want a default access modifier
+src/main/java/lib/CarInsurance.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:16:	CommentRequired:	CommentRequired: Field comments are required
+src/main/java/lib/CarInsurance.java:16:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:16:	DefaultPackage:	DefaultPackage: Use explicit scoping instead of the default package private level
+src/main/java/lib/CarInsurance.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like RECARGO_HOMBRE_JOVENSOLTERO
+src/main/java/lib/CarInsurance.java:16:	LongVariable:	LongVariable: Avoid excessively long variable names like RECARGO_HOMBRE_JOVENSOLTERO
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valoredad' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valoredad' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valorsexo' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:21:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valorsexo' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:22:	AssignmentToNonFinalStatic:	AssignmentToNonFinalStatic: Possible unsafe assignment to a non-final static field in a constructor.
+src/main/java/lib/CarInsurance.java:22:	AssignmentToNonFinalStatic:	AssignmentToNonFinalStatic: Possible unsafe assignment to a non-final static field in a constructor.
+src/main/java/lib/CarInsurance.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:27:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valoredad' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:27:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valoredad' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:31:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:35:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valorsexo' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:35:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'valorsexo' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:40:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:45:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:45:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'estado' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:50:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:55:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:55:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:55:	CyclomaticComplexity:	CyclomaticComplexity: The method 'calcularInsurance(String)' has a cyclomatic complexity of 11.
+src/main/java/lib/CarInsurance.java:55:	CyclomaticComplexity:	CyclomaticComplexity: The method 'calcularInsurance(String)' has a cyclomatic complexity of 11.
+src/main/java/lib/CarInsurance.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'licencia' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:55:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'licencia' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:57:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/lib/CarInsurance.java:57:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/lib/CarInsurance.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lector' could be declared final
+src/main/java/lib/CarInsurance.java:57:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lector' could be declared final
+src/main/java/lib/CarInsurance.java:59:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:59:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:59:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:59:	PositionLiteralsFirstInComparisons:	PositionLiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:59:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:59:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:59:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:59:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:60:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:60:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:64:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:64:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:64:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:64:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:64:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:64:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:68:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:68:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:68:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:68:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:68:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:68:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:68:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:68:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:68:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:72:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:72:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:72:	LiteralsFirstInComparisons:	LiteralsFirstInComparisons: Position literals first in String comparisons
+src/main/java/lib/CarInsurance.java:72:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:72:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:72:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:72:	UselessParentheses:	UselessParentheses: Useless parentheses.
+src/main/java/lib/CarInsurance.java:82:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 27, current threshold is 15
+src/main/java/lib/CarInsurance.java:82:	CognitiveComplexity:	CognitiveComplexity: The method 'main(String)' has a cognitive complexity of 27, current threshold is 15
+src/main/java/lib/CarInsurance.java:82:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:82:	CommentRequired:	CommentRequired: Public method and constructor comments are required
+src/main/java/lib/CarInsurance.java:82:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+src/main/java/lib/CarInsurance.java:82:	CyclomaticComplexity:	CyclomaticComplexity: The method 'main(String)' has a cyclomatic complexity of 14.
+src/main/java/lib/CarInsurance.java:82:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/lib/CarInsurance.java:82:	ExcessiveMethodLength:	ExcessiveMethodLength: Avoid really long methods.
+src/main/java/lib/CarInsurance.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:82:	MethodArgumentCouldBeFinal:	MethodArgumentCouldBeFinal: Parameter 'args' is not assigned and could be declared final
+src/main/java/lib/CarInsurance.java:82:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/main/java/lib/CarInsurance.java:82:	ModifiedCyclomaticComplexity:	ModifiedCyclomaticComplexity: The method 'main' has a Modified Cyclomatic Complexity of 11.
+src/main/java/lib/CarInsurance.java:82:	NPathComplexity:	NPathComplexity: The method 'main(String)' has an NPath complexity of 300, current threshold is 200
+src/main/java/lib/CarInsurance.java:82:	NPathComplexity:	NPathComplexity: The method 'main(String)' has an NPath complexity of 300, current threshold is 200
+src/main/java/lib/CarInsurance.java:82:	NcssCount:	NcssCount: The method 'main(String)' has a NCSS line count of 61.
+src/main/java/lib/CarInsurance.java:82:	NcssCount:	NcssCount: The method 'main(String)' has a NCSS line count of 61.
+src/main/java/lib/CarInsurance.java:82:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/main/java/lib/CarInsurance.java:82:	StdCyclomaticComplexity:	StdCyclomaticComplexity: The method 'main' has a Standard Cyclomatic Complexity of 11.
+src/main/java/lib/CarInsurance.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:84:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:86:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:86:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:88:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/lib/CarInsurance.java:88:	CloseResource:	CloseResource: Ensure that resources like this InputStream object are closed after use
+src/main/java/lib/CarInsurance.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lector' could be declared final
+src/main/java/lib/CarInsurance.java:88:	LocalVariableCouldBeFinal:	LocalVariableCouldBeFinal: Local variable 'lector' could be declared final
+src/main/java/lib/CarInsurance.java:92:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoEdad' (lines '92'-'97').
+src/main/java/lib/CarInsurance.java:92:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoEdad' (lines '92'-'97').
+src/main/java/lib/CarInsurance.java:95:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:95:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:97:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoEdad' (lines '97'-'97').
+src/main/java/lib/CarInsurance.java:97:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoEdad' (lines '97'-'97').
+src/main/java/lib/CarInsurance.java:103:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:103:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:109:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoSexo' (lines '109'-'115').
+src/main/java/lib/CarInsurance.java:109:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoSexo' (lines '109'-'115').
+src/main/java/lib/CarInsurance.java:113:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:113:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:117:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:117:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:117:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:117:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:125:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:125:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:136:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:136:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:137:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/main/java/lib/CarInsurance.java:137:	UseStringBufferForStringAppends:	UseStringBufferForStringAppends: Prefer StringBuilder (non-synchronized) or StringBuffer (synchronized) over += for concatenating strings
+src/main/java/lib/CarInsurance.java:139:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:139:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:139:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:139:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:153:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:153:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:160:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '160'-'164').
+src/main/java/lib/CarInsurance.java:160:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '160'-'164').
+src/main/java/lib/CarInsurance.java:163:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/lib/CarInsurance.java:163:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/lib/CarInsurance.java:164:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:164:	LawOfDemeter:	LawOfDemeter: Potential violation of Law of Demeter (method chain calls)
+src/main/java/lib/CarInsurance.java:164:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/lib/CarInsurance.java:164:	UseLocaleWithCaseConversions:	UseLocaleWithCaseConversions: When doing a String.toLowerCase()/toUpperCase() call, use a Locale
+src/main/java/lib/CarInsurance.java:166:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:166:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:166:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:166:	AvoidLiteralsInIfCondition:	AvoidLiteralsInIfCondition: Avoid using Literals in Conditional Statements
+src/main/java/lib/CarInsurance.java:171:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '171'-'164').
+src/main/java/lib/CarInsurance.java:171:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '171'-'164').
+src/main/java/lib/CarInsurance.java:174:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '174'-'164').
+src/main/java/lib/CarInsurance.java:174:	DataflowAnomalyAnalysis:	DataflowAnomalyAnalysis: Found 'DD'-anomaly for variable 'ingresoLicencia' (lines '174'-'164').
+src/main/java/lib/CarInsurance.java:178:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/lib/CarInsurance.java:178:	SystemPrintln:	SystemPrintln: System.out.print is used
+src/main/java/lib/CarInsurance.java:189:	SystemPrintln:	SystemPrintln: System.out.println is used
+src/main/java/lib/CarInsurance.java:189:	SystemPrintln:	SystemPrintln: System.out.println is used
