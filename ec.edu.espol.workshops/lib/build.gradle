@@ -30,8 +30,8 @@ dependencies {
     
     
 	
-	testImplementation 'io.cucumber:cucumber-java:7.5.0'
-    testImplementation 'io.cucumber:cucumber-junit:7.5.0'
+	testImplementation 'io.cucumber:cucumber-java:6.8.1'
+	testImplementation 'io.cucumber:cucumber-junit:6.8.1'
 	
 }
 
@@ -41,13 +41,13 @@ configurations {
 	}
 }
 
-task cucumber() {
+task cucumberCli() {
 	dependsOn assemble, testClasses
 	doLast {
 		javaexec {
 			main = "io.cucumber.core.cli.Main"
 			classpath = configurations.cucumberRuntime + sourceSets.main.output + sourceSets.test.output
-			args = ['--plugin', 'pretty','--monochrome','--plugin', 'html:lib/reports/cucumber-report.html','--glue', 'ec/edu/espol/workshops/', 'ec/edu/espol/workshops/lib/src/main/java/']
+			args = ['--plugin', 'pretty','--monochrome','--plugin', 'html:lib/reports/cucumber-report.html','--glue', 'ec/edu.espol/workshops/', 'src/main/java/lib']
 		}
 	}
 }
