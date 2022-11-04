@@ -1,6 +1,7 @@
-Feature: Car insurance test
+Feature: Calculate the insurance prime for a customer 
+ 
 
-Scenario: Men are over 25 years old
+  Scenario: Men are over 25 years old
     Given M Are over 25 years old
     When Calculate the premium
     Then Show 500

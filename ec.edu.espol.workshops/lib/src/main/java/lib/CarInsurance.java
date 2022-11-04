@@ -14,6 +14,7 @@ class Carlnsurance { /* clase principal */
   static final int CASADO_OMUJER = 200;
   static final int DESCUENTO_EDAD = 100;
   static final int RECARGO_HOMBRE_JOVENSOLTERO = 1500;
+  public static int premium = PRIMA_BASE;
 
   /**
    * Cosntructor de la clase.
@@ -51,6 +52,11 @@ class Carlnsurance { /* clase principal */
     return eCivil;
 
   }
+  
+  public static int getPremium() {
+		return premium;
+	}
+	
 
   public static int calcularInsurance(String licencia) {
     int premium = PRIMA_BASE;
