@@ -56,8 +56,8 @@ class Carlnsurance { /* clase principal */
     int premium = PRIMA_BASE;
     Scanner lector = new Scanner(System.in, "utf-8");
 
-    if ((getEdad() >= 80) || licencia.equals("No Valido")) {
-      System.out.println("No podemos vender seguros a mayores de 80 años o sin licencias validas");
+    if ((getEdad() >= 80) || licencia.equals("No Valido") || (getEdad() < 18)) {
+      System.out.println("No podemos vender seguros a mayores de 80 años, menores de 18 o sin licencias validas");
       premium -= 1;
     } else {
 
