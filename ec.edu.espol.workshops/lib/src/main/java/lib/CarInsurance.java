@@ -14,6 +14,7 @@ class Carlnsurance { /* clase principal */
   static final int CASADO_OMUJER = 200;
   static final int DESCUENTO_EDAD = 100;
   static final int RECARGO_HOMBRE_JOVENSOLTERO = 1500;
+  static final int DESCUENTONUEVO = 50;
 
   /**
    * Cosntructor de la clase.
@@ -72,6 +73,12 @@ class Carlnsurance { /* clase principal */
       if ((getEdad() >= 45) && (getEdad() < 65) && (getSexo().equals("M") || getSexo().equals("F"))) {
         premium -= DESCUENTO_EDAD;
       }
+      if ((getEdad() > 30) && (getEdad() < 60) && (getEstado().equals("Casado"))) {
+          premium -= DESCUENTONUEVO;
+        }
+      if ((getEdad() > 60) && (getEdad() < 80) && (getEstado().equals("No Casado"))) {
+          premium -= DESCUENTONUEVO;
+        }
       
             
 
