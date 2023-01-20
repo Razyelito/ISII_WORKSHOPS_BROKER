@@ -76,7 +76,7 @@ class Carlnsurance { /* clase principal */
       if ((getEdad() > 30) && (getEdad() < 60) && (getEstado().equals("Casado"))) {
           premium -= DESCUENTONUEVO;
         }
-      if ((getEdad() > 60) && (getEdad() < 80) && (getEstado().equals("No Casado"))) {
+      if ((getEdad() > 60) && (getEdad() < 80) && (getEstado().equals("No Casado")) && (getSexo().equals("F"))) {
           premium -= DESCUENTONUEVO;
         }
       
